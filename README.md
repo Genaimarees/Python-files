@@ -3,3 +3,4 @@ Daily python files are uploader,
 commit by marees: changes display in discord
 🚀 Vera Update | marees pushed: Refactored ETL pipeline to improve performance
 commit by marees
+improved python files
